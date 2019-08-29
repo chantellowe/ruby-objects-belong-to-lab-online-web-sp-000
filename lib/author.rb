@@ -3,3 +3,5 @@ class Author
   
   
 end
+
+writer = Author.new(name)
