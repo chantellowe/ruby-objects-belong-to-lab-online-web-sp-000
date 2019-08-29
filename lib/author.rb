@@ -1,6 +1,6 @@
 class Author 
   attr_accessor :name 
-  writer = Author.new(name)
+  writer = Author.new(@name)
   
   
 end
