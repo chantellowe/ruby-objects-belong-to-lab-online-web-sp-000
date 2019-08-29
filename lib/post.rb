@@ -3,5 +3,3 @@ class Post
   
   
 end
-
-post.author = author
